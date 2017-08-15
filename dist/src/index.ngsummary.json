@@ -1,1 +1,46 @@
-{"summaries":[{"symbol":{"__symbol":0,"members":[]},"metadata":{"__symbol":1,"members":[]}},{"symbol":{"__symbol":2,"members":[]},"metadata":{"__symbol":3,"members":[]}}],"symbols":[{"__symbol":0,"name":"MyType","filePath":"/Users/alan/Documents/angular-aot-compiler-test/src/index.d.ts"},{"__symbol":1,"name":"MyType","filePath":"/Users/alan/Documents/angular-aot-compiler-test/src/type.d.ts"},{"__symbol":2,"name":"MyTypeSecondary","filePath":"/Users/alan/Documents/angular-aot-compiler-test/src/index.d.ts"},{"__symbol":3,"name":"MyTypeSecondary","filePath":"/Users/alan/Documents/angular-aot-compiler-test/src/model.d.ts"}]}
+{
+    "summaries": [
+        {
+            "symbol": {
+                "__symbol": 0,
+                "members": []
+            },
+            "metadata": {
+                "__symbol": 1,
+                "members": []
+            }
+        },
+        {
+            "symbol": {
+                "__symbol": 2,
+                "members": []
+            },
+            "metadata": {
+                "__symbol": 3,
+                "members": []
+            }
+        }
+    ],
+    "symbols": [
+        {
+            "__symbol": 0,
+            "name": "MyType",
+            "filePath": "/Users/alan/Documents/angular-aot-compiler-test/src/index.d.ts"
+        },
+        {
+            "__symbol": 1,
+            "name": "MyType",
+            "filePath": "/Users/alan/Documents/angular-aot-compiler-test/src/type.d.ts"
+        },
+        {
+            "__symbol": 2,
+            "name": "MyTypeSecondary",
+            "filePath": "/Users/alan/Documents/angular-aot-compiler-test/src/index.d.ts"
+        },
+        {
+            "__symbol": 3,
+            "name": "MyTypeSecondary",
+            "filePath": "/Users/alan/Documents/angular-aot-compiler-test/src/model.d.ts"
+        }
+    ]
+}
